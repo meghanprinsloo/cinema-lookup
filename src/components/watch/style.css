@@ -1,0 +1,63 @@
+body {
+  background-color: #141414;
+  color: #fff;
+}
+.singleHeading {
+  padding: 15px 0;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.singleHeading h1 {
+  text-transform: uppercase;
+  font-size: 30px;
+}
+.singleHeading span {
+  word-spacing: 5px;
+  margin-left: 10px;
+}
+.trailerPage .container {
+  max-width: 70%;
+  margin-top: 20px;
+}
+video {
+  width: 80%;
+  margin-left: 8%;
+  margin-bottom: 2.5%;
+}
+.trailerPage h3 {
+  font-weight: 600;
+  margin-left: 8%;
+}
+.trailerPage p {
+  width: 80%;
+  line-height: 25px;
+  margin-top: 20px;
+  margin-left: 8%;
+  margin-bottom: 1.5%;
+  font-weight: 300;
+}
+.trailerPage p1 {
+  margin-top: 20px;
+  margin-left: 8.1%;
+  margin-bottom: 1.5%;
+  font-weight: 550;
+  color: #ffffff;
+}
+.trailerPage p2 {
+  margin-top: 20px;
+  margin-left: 8%;
+  margin-bottom: 1.5%;
+  font-weight: 400;
+  color: #e10815;
+}
+.trailerPage p3 {
+  width: 80%;
+  line-height: 25px;
+  margin-top: 20px;
+  margin-left: 8%;
+  margin-bottom: 10%;
+  font-weight: 350;
+  color: #868686;
+}
