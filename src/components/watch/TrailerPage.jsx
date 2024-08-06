@@ -10,7 +10,7 @@ const TrailerPage = () => {
 
   // Retrieving records from the Airtable Database
   useEffect(() => {
-    base('home page')
+    base('cinema_lookup')
         .select({view: 'Grid view'})
         .eachPage((records, fetchNextPage) => {
           setItems(records);
